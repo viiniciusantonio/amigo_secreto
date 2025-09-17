@@ -39,7 +39,7 @@ Sinta-se à vontade para sugerir melhorias, corrigir bugs ou adicionar novas fun
 
 ### Autor
 
-[Seu Nome ou Nickname]
+[viiniciusantonio]
 
 ---
 
